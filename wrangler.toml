@@ -1,5 +1,5 @@
 name = "# wrangler.toml
-name = "chime-email-worker"
+name = 'chime-email-worker'
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
