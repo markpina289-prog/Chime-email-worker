@@ -1,0 +1,11 @@
+# This is a sample wrangler.toml configuration
+
+name = "chime-email-worker"
+directory = "dist"
+compatibility_date = "2026-03-25"
+
+[env.production]
+bucket = "example-bucket"
+
+[build]
+command = "npm run build"
