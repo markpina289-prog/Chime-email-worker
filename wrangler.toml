@@ -1,4 +1,4 @@
-# wrangler.toml
+# wrangler.toml - Last updated: 2026-03-26 08:45 UTC
 name = 'chime-email-worker'
 main = 'src/index.js'
 compatibility_date = '2024-01-01'
